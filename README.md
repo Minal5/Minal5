@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/minal-madhur-0434b4204/"><img align="center" width="30px" src="https://github.com/Minal5/readme.md/blob/main/linkedin.png" /></a>
 <a href="https://twitter.com/minal_madhur_" ><img align="center" width="30px" src="https://github.com/Minal5/readme.md/blob/main/twitter.png" /></a>
 <a href="https://www.instagram.com/minal.madhur/" target="blank"><img align="center" src="https://github.com/Minal5/readme.md/blob/main/instagram.png" alt="minal.madhur" height="40" width="40" /></a>
-<a href="https://leetcode.com/crack-it/" target="blank"><img align="center" src="https://github.com/Minal5/readme.md/blob/main/leetcode.png" alt="minalmadhur" height="40" width="40" /></a> 
+
 </p>
 <!--
 **Minal5/Minal5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
